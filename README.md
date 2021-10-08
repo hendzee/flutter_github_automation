@@ -1,4 +1,4 @@
-# Futter Github Automation(CI/CD)
+# Flutter Github Automation(CI/CD)
 > This file are used to test and build flutter APK automatically
 
 ## Job List
