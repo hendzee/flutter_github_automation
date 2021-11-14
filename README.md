@@ -11,7 +11,8 @@
 .
 ├── ...
 ├── .github
-│   ├── android_release.yml
+│   ├── workflows
+        ├── android_release.yml
 └── ...
 ```
 - Create github token, at this link: [https://github.com/settings/tokens](https://github.com/settings/tokens)
